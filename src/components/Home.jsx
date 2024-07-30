@@ -40,8 +40,7 @@ function Home() {
               and React. Proficient in Python and experienced with backend
               frameworks such as FastAPI and MongoDB. Demonstrates strong
               problem-solving skills through hands-on projects, including a task
-              tracker application, real-time weather web app, and a responsive
-              single-page website. Adept at creating interactive and
+              tracker application and a responsive single-page website. Adept at creating interactive and
               user-friendly applications. Eager to leverage these skills in a
               challenging development role to contribute to innovative projects
               and grow professionally.
