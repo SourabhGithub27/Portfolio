@@ -8,6 +8,8 @@ import { SiTelegram } from "react-icons/si";
 import { IoLogoJavascript } from "react-icons/io5";
 // eslint-disable-next-line no-unused-vars
 import { FaReact } from "react-icons/fa6";
+import { FaNodeJs } from "react-icons/fa";
+import { DiMongodb } from "react-icons/di";
 
 // eslint-disable-next-line no-unused-vars
 import { ReactTyped} from "react-typed";
@@ -65,6 +67,8 @@ function Home() {
 
                         <IoLogoJavascript className="text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px]"/>
                         <FaReact          className="text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px]" />
+                        <FaNodeJs   className="text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px]" />
+                        <DiMongodb className="text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px]" />
                         
                     </div>
                     </div>
